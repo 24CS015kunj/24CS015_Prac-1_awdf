@@ -83,8 +83,3 @@ Practical-1/
 ```
 
 ---
-
-## 👤 Author
-
-- **Student**: Kunj Desai
-- **ID / Email**: 24cs015@charusat.edu.in
